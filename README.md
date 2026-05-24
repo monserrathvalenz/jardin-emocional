@@ -76,7 +76,7 @@ npm run dev
 
 ## Autora
 
-**Monserrath Valenzuela
+**Monserrath Valenzuela**
 
 Proyecto académico
 
